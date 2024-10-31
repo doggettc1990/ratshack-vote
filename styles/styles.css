@@ -138,3 +138,40 @@ h1 {
     padding: 10px 25px;
     border-radius: 10px;
 }
+
+.maleRats p {
+    color: black;
+    text-align: center;
+    margin-top: 15px;
+    line-height: 25px;
+}
+
+.maleRats,
+.profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.profile {
+    flex-basis: 15%;
+}
+
+.maleProfiles {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 600;
+    padding: 50px;
+}
+
+h4 {
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: 500;
+}
