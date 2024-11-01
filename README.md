@@ -9,3 +9,9 @@ where you can choose the rat followed by a basic footer.
 
 Plan to eventually add the ability to interact with the website, cast a vote, and store the votes to allow the vistors to see the total tally as I learn more about JavaScript, Databases, and Backend
 development.
+
+11.01.2024 - Layout Finished For Initial Submission
+___________________________________________________
+Landing page initial layout and styling complete. 
+
+Page submitted to The Odin Project to finish Flexbox section of course.
