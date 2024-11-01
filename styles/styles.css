@@ -175,3 +175,40 @@ h4 {
     font-size: 18px;
     font-weight: 500;
 }
+
+h3 {
+    color: white;
+    margin-bottom: 45px;
+    font-size: 24px;
+    font-weight: 800;
+    border-bottom: 3px solid white;
+}
+
+.leadBackground {
+    background: #8F1402;
+}    
+
+.lead {
+    padding: 75px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.lead p {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+footer {
+    background: #8F1402;
+    text-align: center;
+    border-top: 2px solid white;
+    height: 60px;
+}
+
+footer p {
+    padding: 22px 0;
+}
